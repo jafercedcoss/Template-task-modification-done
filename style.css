@@ -1,0 +1,24 @@
+.A{
+    margin-top: 4%;
+    margin-left: 2%;
+    margin-right: 20px;
+    width: auto;
+}
+.B{
+    margin-left: 2%;
+}
+.C{
+    margin-left: 2%;
+}
+#Q{
+    text-align: justify;
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 5% ;
+    margin-right: 1%;
+}
+@media only screen and (max-width: 880px) {
+    .left, .main,.right {
+        width:100%
+      }
+    }
